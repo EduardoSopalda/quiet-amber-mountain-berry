@@ -1,0 +1,356 @@
+Absolutely. Here is the final animation prompt, with the copper/glow change integrated and everything else locked down.
+
+⸻
+
+FINAL ANIMATION PROMPT — AUTOMA CHEM 2026 OPENING
+
+CONTEXT
+
+This is the opening animation for a keynote presentation at AUTOMA CHEM 2026 in Berlin, an international conference attended by senior leaders in Data, AI, automation, digital transformation and technology within the chemical industry.
+
+The audience is highly experienced and already understands AI, data, automation and industrial digital transformation.
+
+Therefore, the animation must not feel like an AI demonstration, technology advertisement or futuristic presentation.
+
+It should feel sophisticated, architectural, editorial, intelligent, minimal and restrained.
+
+The purpose of the animation is to help the audience visually understand the central metaphor of the presentation:
+
+The idea can be beautiful and simple. Reality is more complex.
+
+The image represents two sides of the same story:
+
+* ACT I — THE IDEA: the expressive architectural sketch.
+* ACT II — REALITY: the detailed technical master plan.
+
+The animation should make this contrast understandable without adding explanatory graphics or new visual elements.
+
+⸻
+
+ABSOLUTE RULE — DO NOT ADD ANYTHING
+
+The supplied image is the complete visual universe of the animation.
+
+Do not add, invent, generate or introduce any new visual element.
+
+Every element visible in the animation must already exist in the supplied image.
+
+Do not add:
+
+* new buildings
+* new roads
+* new trees
+* new people
+* new vehicles
+* new infrastructure
+* new architectural details
+* new data visualisations
+* AI networks
+* particles
+* digital effects
+* interfaces
+* icons
+* symbols
+* labels
+* additional typography
+* additional logos
+* decorative elements
+* atmospheric objects
+* futuristic elements
+
+Do not redesign the image.
+Do not reinterpret the architecture.
+Do not extend the drawing.
+Do not improve or embellish the illustration.
+
+The animation should only animate the existing visual information.
+
+⸻
+
+COLOUR OF THE EXISTING SKETCH
+
+The existing brown architectural sketch on the left should be recoloured from brown into a deep burned-copper / oxidised copper tone.
+
+The copper should feel:
+
+* warm
+* sophisticated
+* slightly dark
+* architectural
+* tactile
+* refined
+
+It should not look orange, gold, neon or metallic-plastic.
+
+Add a very subtle ember-like warm glow to the existing copper lines.
+
+The glow should be extremely restrained:
+
+* thin
+* soft
+* close to the existing strokes
+* slightly luminous at the edges
+* almost like warm light embedded in the ink
+
+No neon glow.
+No bloom.
+No light rays.
+No glowing particles.
+No magical effects.
+
+The copper glow should remain sophisticated enough to belong in an architectural drawing.
+
+The blue technical blueprint on the right remains exactly in its existing blue technical-drawing language.
+
+Do not change its colour.
+
+Do not add glow to the blueprint.
+
+The visual contrast should be:
+
+burned copper = IDEA
+
+technical blue = REALITY
+
+⸻
+
+ACT I — THE IDEA
+
+Begin with the existing architectural sketch.
+
+The existing copper lines progressively reveal themselves, as though an architect is drawing the design by hand.
+
+The drawing should emerge gradually along its existing strokes.
+
+Use only the lines that are already present.
+
+The movement should feel:
+
+human, organic, deliberate and precise.
+
+The subtle copper glow can gently accompany the appearance of the existing lines, creating the impression of warm ink becoming visible.
+
+The glow must remain extremely subtle.
+
+Nothing else moves.
+
+The audience should perceive:
+
+an idea taking shape.
+
+⸻
+
+THE TRANSITION
+
+As the existing copper architectural drawing reaches the central structure, the animation reaches the boundary between the two visual languages.
+
+The transition should be quiet and elegant.
+
+No wipe effect.
+
+No digital transformation.
+
+No morphing effect.
+
+No flash.
+
+No dramatic transition.
+
+Instead, the existing blue technical drawing gradually becomes visible.
+
+It should feel as though the technical reality was always underneath the conceptual drawing and is now being revealed.
+
+⸻
+
+ACT II — REALITY
+
+Progressively reveal the existing blue technical master plan.
+
+Reveal only what is already visible in the supplied image:
+
+* existing technical grid
+* existing roads
+* existing blocks
+* existing water
+* existing trees
+* existing infrastructure
+* existing architectural details
+
+The complexity should emerge progressively.
+
+The audience should feel that the simple conceptual drawing has encountered the many relationships and constraints of the real world.
+
+The message is:
+
+The idea is beautiful. Reality has more to accommodate.
+
+Do not create additional complexity.
+
+The complexity must come entirely from revealing the complexity that already exists in the image.
+
+⸻
+
+THE HUMAN FIGURE
+
+The existing small human figure at the bottom of the image is a static visual anchor.
+
+It must remain completely motionless throughout the entire animation.
+
+No:
+
+* walking
+* breathing
+* head movement
+* posture change
+* clothing movement
+* scaling
+* repositioning
+* animation of any kind
+
+Do not add any other people.
+
+The human figure simply remains standing at ground level while the architectural world around it is progressively revealed.
+
+⸻
+
+TYPOGRAPHY AND LOGOS
+
+All existing typography, logos and conference information must remain completely static.
+
+Do not animate:
+
+* title
+* subtitle
+* Act I / Act II labels
+* speaker name
+* dsm-firmenich logo
+* event information
+* People | Planet | Progress
+* any other existing text
+
+No typewriter effects.
+
+No text reveals.
+
+No movement.
+
+No scaling.
+
+No morphing.
+
+No distortion.
+
+The audience must be able to read the information throughout the animation.
+
+⸻
+
+CAMERA
+
+THE CAMERA MUST REMAIN COMPLETELY LOCKED.
+
+The full slide must remain visible on screen at all times.
+
+Absolutely no:
+
+* zoom in
+* zoom out
+* pan
+* tilt
+* rotation
+* camera movement
+* reframing
+* perspective change
+* cinematic push-in
+* parallax that changes the composition
+
+The slide itself is the camera frame.
+
+The animation happens inside the drawing, not through camera movement.
+
+⸻
+
+TIMING
+
+Total duration: approximately 20–25 seconds.
+
+0–5 seconds
+
+The existing burned-copper architectural sketch progressively appears.
+
+5–8 seconds
+
+The copper drawing reaches the central architectural threshold.
+
+8–16 seconds
+
+The existing blue technical blueprint progressively reveals itself.
+
+16–20 seconds
+
+The complete existing master plan settles into view.
+
+20–25 seconds
+
+Everything becomes completely still.
+
+Hold the final composition.
+
+Give the audience time to read the slide.
+
+⸻
+
+SOUND
+
+If sound is used, it must be extremely subtle.
+
+Possible sound language:
+
+* restrained pencil/ink sound during the copper sketch
+* subtle technical drafting ambience during the blueprint reveal
+* silence as the final composition settles
+
+No cinematic crescendo.
+
+No futuristic electronic sound.
+
+No AI sound effects.
+
+Silence is preferable to unnecessary sound design.
+
+⸻
+
+OVERALL AESTHETIC
+
+Architectural drawing × technical blueprint × refined editorial film.
+
+Elegant.
+
+Minimal.
+
+Intellectual.
+
+Precise.
+
+Mature.
+
+The animation should feel appropriate for a room full of senior Data and AI leaders in the chemical industry.
+
+It should communicate confidence through restraint.
+
+Most important principle:
+
+Animate the existing image. Do not create a new image.
+
+The only meaningful transformation is:
+
+existing copper architectural idea → existing blue technical reality
+
+with the copper lines carrying a very subtle burned-ember glow.
+
+Everything else remains exactly where it is.
+
+The drawing moves.
+The composition does not.
+The human does not move.
+The typography does not move.
+Nothing new appears.

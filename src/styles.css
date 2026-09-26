@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f3ddc0;
+  --color-paper-light: #f1e4d1;
+  --color-ink: #0f0f11;
+  --color-muted: #48565f;
+  --color-copper: #762f0b;
+  --color-copper-light: #d89c67;
+  --color-blueprint: #5f92b8;
+  --color-blueprint-pale: #8db5d2;
+  --color-blueprint-text: #365f7c;
+  --color-technical: #48565f;
+  --font-display: "Lora", Georgia, serif;
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  --radius: 0;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html,
+  body,
+  #app {
+    min-height: 100%;
+    background: var(--color-paper);
+    color: var(--color-ink);
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+}
+
+@keyframes draw-line {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes city-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.38;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .costa-draw {
+    animation: none !important;
+    stroke-dashoffset: 0 !important;
+  }
+  .city-glaze {
+    animation: none !important;
+    opacity: 0.38 !important;
+  }
+}

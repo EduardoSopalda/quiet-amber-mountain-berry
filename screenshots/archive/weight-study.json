@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "From Brasília to the Plant Floor",
+      "hasCanvas": false,
+      "bodyTextLen": 1350,
+      "bodyTextHash": "3e90a07796f494c9dd21c6bcdae6002e5f29fcbdf255181173dfccbcd401a27c",
+      "bodyTextPrefix": "LINE WEIGHT · MEASURED ON THIS DRAWING Two hands. Two kinds of w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/weight-study.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "From Brasília to the Plant Floor",
+      "hasCanvas": false,
+      "bodyTextLen": 1350,
+      "bodyTextHash": "3e90a07796f494c9dd21c6bcdae6002e5f29fcbdf255181173dfccbcd401a27c",
+      "bodyTextPrefix": "LINE WEIGHT · MEASURED ON THIS DRAWING Two hands. Two kinds of w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/weight-study-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/weight-study.json"
+}

@@ -1,0 +1,1 @@
+import{t as e}from"./opening-film-IMKAdMeZ.js";var t=e;export{t as component};

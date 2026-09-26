@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "From Brasília to the Plant Floor",
+      "hasCanvas": false,
+      "bodyTextLen": 268,
+      "bodyTextHash": "924e9fcfcda70fdc5002427e06f3d2e554e039fc442ad5f9e8771e4048d1968c",
+      "bodyTextPrefix": "AUTOMA Chem 2026 · Berlin · Opening panel Digitalisation, Sustai",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "From Brasília to the Plant Floor",
+      "hasCanvas": false,
+      "bodyTextLen": 237,
+      "bodyTextHash": "0a6c4a5b76eeb33f9ff3289366d36e91acc2fec43296db9aeb21b5b64f740214",
+      "bodyTextPrefix": "AUTOMA Chem 2026 · Berlin · Opening panel Digitalisation, Sustai",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

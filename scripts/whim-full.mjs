@@ -1,0 +1,10 @@
+import { chromium } from 'playwright';
+const browser = await chromium.launch({ headless: true });
+const page = await browser.newPage({ viewport: { width: 2400, height: 1400 }, deviceScaleFactor: 2 });
+await page.goto('https://whimsical.com/automa-chem-from-brasilia-to-the-plant-floor-9-act-visual-roadma-LiawEE3cD2n6G4TEBgGUKB', { waitUntil: 'networkidle', timeout: 60000 });
+await page.waitForTimeout(4500);
+await page.keyboard.press('1');
+await page.waitForTimeout(1000);
+await page.screenshot({ path: '/workspace/screenshots/whim-full.png' });
+console.log('full ok');
+await browser.close();

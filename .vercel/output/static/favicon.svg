@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="From Brasília to the Plant Floor">
+  <rect width="32" height="32" rx="6" fill="#F4EFE6"/>
+  <g fill="none" stroke="#B87333" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 5.4v18.8"/>
+    <path d="M5.4 18.2q10.6-7.2 21.2 0"/>
+  </g>
+  <path fill="#B87333" d="M16 24 13.5 27.8h5z"/>
+</svg>
